@@ -25,7 +25,7 @@
 1. **Склонируйте репозиторий:**
 
 ```
-git clone https://github.com/Vasja1142/CSharpSetLibrary.git 
+git clone https://github.com/Vasja1142/SetOperations.git 
 ```
 
 2. **Откройте проект в Visual Studio.**
